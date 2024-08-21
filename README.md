@@ -8,7 +8,7 @@ Features
  1.Inverts colors of any PDF file.
  2..User-friendly GUI.
     
-Altough i have included an executable file which can be used directly and no extra installations are required! But for the code and script make sure you have the following installed:
+## Altough i have included an executable file which can be used directly and no extra installations are required! But for the code and script make sure you have the following installed:
 
  1.Python 3.x
  2.tkinter (for the GUI)
@@ -27,16 +27,16 @@ Altough i have included an executable file which can be used directly and no ext
   
   # Contributing:
 
-  Contributions are welcome! Please follow these steps to contribute:
+  ## Contributions are welcome! Please follow these steps to contribute:
 
-    1.Fork the repository.
-    2.Create a new branch for your feature/bugfix.
-    3.Make your changes.
-    4.Submit a pull request.
+   1.Fork the repository.
+   2.Create a new branch for your feature/bugfix.
+   3.Make your changes.
+   4.Submit a pull request.
     
-  License:
+  # License:
 
-    This project is licensed under the MIT License
+   This project is licensed under the MIT License
 
 
 
