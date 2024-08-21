@@ -21,7 +21,7 @@ For the code and script make sure you have the following installed:
  
  4.Pillow (for image processing)
 
- 5. PyMuPDF
+ 5.PyMuPDF
 
  ## You can install the necessary packages using pip:
    ```
