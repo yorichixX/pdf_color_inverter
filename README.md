@@ -8,7 +8,7 @@ Features
  1.Inverts colors of any PDF file.
  2..User-friendly GUI.
     
-## Altough i have included an executable file which can be used directly and no extra installations are required! But for the code and script make sure you have the following installed:
+#### Altough i have included an executable file which can be used directly and no extra installations are required! But for the code and script make sure you have the following installed:
 
  1.Python 3.x
  2.tkinter (for the GUI)
