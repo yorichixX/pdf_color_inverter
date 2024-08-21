@@ -11,8 +11,7 @@ PDF Color Inverter is a simple Python script with a graphical user interface (GU
  2.User-friendly GUI.
 
 # Requirements
-
-Altough i have included an executable file which can be used directly and no extra installations are required! But for the code and script make sure you have the       following installed:
+For the code and script make sure you have the following installed:
 
  1.Python 3.x
  
